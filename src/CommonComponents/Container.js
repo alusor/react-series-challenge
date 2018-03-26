@@ -10,6 +10,11 @@ const Content = styled.div`
     padding: 1rem 0rem;
     flex: 1;
     max-width: 920px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-around;
 `;
 
 const Container = ({ children }) => (
