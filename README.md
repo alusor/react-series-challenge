@@ -2,6 +2,9 @@
 
 The output of this challenge is to create a Giphy Client.
 
+KEY: C0tLIuj5RQbzzGZiVjXRpJAziWRxqEZV
+
+
 - What we are expecting from you is
 - Use Giphy API: https://developers.giphy.com/docs
 - Apply the concepts that you learned along the - course
